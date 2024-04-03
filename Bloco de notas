@@ -1,0 +1,23 @@
+<HTML>
+   <HEAD>
+               <TITLE> pagina1 </TITLE>
+   </HEAD>
+   <BODY>
+             <BODY BGCOLOR = '#FFFFFF'>
+                 BOM DIA ! <BR><BR>
+                 <FONT SIZE = '7' COLOR ='#000000'>
+                GUSTAVO SANTOS <BR>
+                 </FONT>
+                 <FONT SIZE = '6' COLOR ='FF0000'> GUSTAVO SANTOS <BR> </FONT>
+
+            <FONT SIZE = '7' COLOR = '#00FF00'>P
+            <FONT SIZE = '5' COLOR = '#FF1493'>A
+            <FONT SIZE = '3' COLOR = '#FF8C00'>R 
+            <FONT SIZE = '2' COLOR = '#D8BFD8'>A 
+            <FONT SIZE = '2' COLOR = '#FF00FF'>B 
+            <FONT SIZE = '3' COLOR = '#7B68EE'>E 
+            <FONT SIZE = '5' COLOR = '#00FFFF'>N
+            <FONT SIZE = '6' COLOR = '#0000FF'>S
+<IMG SCR = "FOTO1.JPG" WIDTH='40%'>
+   </BODY>   
+</HTML>   
