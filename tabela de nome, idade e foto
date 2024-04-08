@@ -1,0 +1,84 @@
+!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Empresários</title>
+</head>
+
+<body>
+    <center>
+        <font color="#00BF63" size="7">
+            Tabela de grandes cristãos (HOMENS/MULHERES)
+        </font>
+    </center>
+    <br>
+    <br>
+
+
+
+    <center>
+        <table border="6" width="600">
+            <tr bgcolor="#FFB647">
+                <td width="250">
+                    <center><b>NOME</b>
+                </td>
+    </center>
+    <td width="250">
+        <center> <b>IDADE</b>
+    </td>
+    </center>
+    <td width="250">
+        <center> <b>FOTO</b>
+    </td>
+    </center>
+    </tr>
+
+    <tr>
+        <td> billy graham</td>
+        <td> 100 anos </td>
+        <td> <a href=""><img src="img/homem/h1.png" width="100%" alt="100"> </td></a>
+    </tr>
+
+    <tr>
+        <td> CS lewis </td>
+        <td> 67 anos </td>
+        <td> <a href=""><img src="img/homem/h2.png" width="100%" alt="100"> </td></a>
+    </tr>
+
+    <tr>
+        <td> Charles Spurgeon </td>
+        <td> 58 anos </td>
+        <td> <a href=""><img src="img/homem/h3.png" width="100%" alt="100"></td></a>
+    </tr>
+
+    <tr>
+        <td> Khatarina Lutero</td>
+        <td> 53 anos </td>
+        <td> <a href=""><img src="img/mulher/m1.png" width="100%" alt="100"> </td> </a>
+    </tr>
+
+    <tr>
+        <td>Aimée Semple McPherson
+        <td> 54 anos </td>
+        <td> <a href=""><img src="img/mulher/m2.png" width="100%" alt="100"></td></a>
+    </tr>
+
+    <tr>
+        <td> Ruth Bell Graham
+        <td> 87 anos </td>
+        <td> <a href=""><img src="img/mulher/m3.png" width="100%" alt="100"></td></a>
+    </tr>
+
+    </table>
+    </center>
+
+
+
+
+
+</body>
+
+</html>
