@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<script>
+
+    $dia da semana = prompt("Digite [FDS] para final de semana ou [rotina] semana")
+    switch ($dia da semana ) {
+        case "segunda":
+        case "terça":
+        case "quarta":
+        case "quinta":
+        case "sexta":
+            document.write("que dia é hoje ?")
+            break;
+
+        case "sabado":
+        case "domingo":
+            document.write("fim de semana ")
+            break;
+        default:
+            document.write("Opção Inválida !")
+            break;
+
+
+    }
+
+
+</script>
+
+<body>
+
+</body>
+
+</html>
